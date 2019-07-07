@@ -17,7 +17,7 @@ This tutorial explains how to set up an air quality sensor (MQ1135) to display i
 ## Create the Arduino Circuit:
 - Open the **AirQuality_bb.pdf** file and follow the visual pinout instructions to create your circuit
 
-## IDE Code
+## IDE Code:
 - Double click the **Air-Quality.ino** file, and say yes to the Arduino IDE pop-up window
 - The file should open directly in your Arduino IDE application
 - Click the Compile button to be sure the code has no bugs, then plug in your Arduino circuit and Upload the code
